@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracWifi</string>
+    <string name="descri">Apagar y encender wifi por medio de botones</string>
+    <string name="enable">Enable WiFi</string>
+    <string name="disable">Disable WiFi</string>
+</resources>
+
